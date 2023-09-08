@@ -82,7 +82,7 @@ body * {
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
-  animation: slide-back 0.2s;
+  animation: slide-back 0.4s;
   
 }
 
@@ -170,7 +170,7 @@ footer
     --bg-url: url(./assets/bg.desktop.jpg);
   }
   .light {
-    --bg-url: url(./assets/bg.desktiop-light.jpg);
+    --bg-url: url(./assets/bg.desktop-light.jpg);
   }
 }
 
